@@ -1,5 +1,6 @@
-9b055c9 (HEAD -> main) Task 2.1 done
+7244377 (HEAD -> main, origin/main, origin/HEAD) Task 2.2 done
+9b055c9 Task 2.1 done
 49cc0e6 Refactor task 1
-33f1722 (origin/main, origin/HEAD) Task 1.2 done.
+33f1722 Task 1.2 done.
 2549828 Task 1.1 complete
 b3b4aef Initial commit

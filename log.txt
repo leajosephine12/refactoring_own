@@ -1,4 +1,6 @@
-7244377 (HEAD -> main, origin/main, origin/HEAD) Task 2.2 done
+0643d65 (HEAD -> main, origin/main, origin/HEAD) Task 2.4 done.
+467fd0c Task 2.3 done
+7244377 Task 2.2 done
 9b055c9 Task 2.1 done
 49cc0e6 Refactor task 1
 33f1722 Task 1.2 done.
